@@ -167,7 +167,7 @@ namespace PerpustakaanAmba
                         pengelola.HapusBuku();
                         break;
                     case 5:
-                        Console.WriteLine("Sampai jumpa! 📖✨");
+                        Console.WriteLine("Sampai jumpa!");
                         break;
                     default:
                         Console.WriteLine("Pilihan tidak tersedia.");
